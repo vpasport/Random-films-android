@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Random films</string>
+    <string-array name="films">
+        <item>film 1</item>
+        <item>film 2</item>
+        <item>film 3</item>
+        <item>film 4</item>
+        <item>film 5</item>
+        <item>film 6</item>
+        <item>film 7</item>
+        <item>film 8</item>
+        <item>film 9</item>
+        <item>film 10</item>
+    </string-array>
+</resources>
